@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>rxlxr的博客</title>
+        <link>http://www.rxlxr.com/</link>
+        <description>生活不易,阿荣卖艺</description>
+        <lastBuildDate>Thu, 11 Jul 2024 14:14:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>rxlxr的博客</title>
+            <url>http://www.rxlxr.com/images/user/avatar.png</url>
+            <link>http://www.rxlxr.com/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © rxlxr</copyright>
+        <atom:link href="http://www.rxlxr.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[教学管理系统]]></title>
+            <link>http://www.rxlxr.com/posts/ruoyi_teaching/index</link>
+            <guid>http://www.rxlxr.com/posts/ruoyi_teaching/index</guid>
+            <pubDate>Sat, 20 Jan 2024 17:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p>使用若依框架快速开发江苏大学教学管理系统</p>
+]]></content:encoded>
+            <author>i@valaxy.site (rxlxr)</author>
+        </item>
+        <item>
+            <title><![CDATA[倾心家教源码分析1]]></title>
+            <link>http://www.rxlxr.com/posts/qxeducation1/index</link>
+            <guid>http://www.rxlxr.com/posts/qxeducation1/index</guid>
+            <pubDate>Sat, 13 Jan 2024 15:00:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p>讲解倾心家教前端中http请求源码和登录页源码</p>
+]]></content:encoded>
+            <author>i@valaxy.site (rxlxr)</author>
+        </item>
+        <item>
+            <title><![CDATA[倾心家教]]></title>
+            <link>http://www.rxlxr.com/posts/qxeducation/index</link>
+            <guid>http://www.rxlxr.com/posts/qxeducation/index</guid>
+            <pubDate>Sat, 13 Jan 2024 14:00:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p>倾心家教结果展示</p>
+]]></content:encoded>
+            <author>i@valaxy.site (rxlxr)</author>
+        </item>
+        <item>
+            <title><![CDATA[鸿蒙开发Day04]]></title>
+            <link>http://www.rxlxr.com/posts/arkTS_Day04/index</link>
+            <guid>http://www.rxlxr.com/posts/arkTS_Day04/index</guid>
+            <pubDate>Thu, 14 Dec 2023 20:56:56 GMT</pubDate>
+            <content:encoded><![CDATA[<p>使用http协议获取数据</p>
+]]></content:encoded>
+            <author>i@valaxy.site (rxlxr)</author>
+        </item>
+        <item>
+            <title><![CDATA[鸿蒙开发Day03]]></title>
+            <link>http://www.rxlxr.com/posts/arkTS_Day03/index</link>
+            <guid>http://www.rxlxr.com/posts/arkTS_Day03/index</guid>
+            <pubDate>Tue, 28 Nov 2023 22:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p>使用Picker，Dialog组件完成中国城市选择器</p>
+]]></content:encoded>
+            <author>i@valaxy.site (rxlxr)</author>
+        </item>
+        <item>
+            <title><![CDATA[鸿蒙开发Day02]]></title>
+            <link>http://www.rxlxr.com/posts/arkTS_Day02/index</link>
+            <guid>http://www.rxlxr.com/posts/arkTS_Day02/index</guid>
+            <pubDate>Tue, 28 Nov 2023 16:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p>学习使用ArkTs的<code>List</code>，<code>Tabs</code>，<code>Navigation</code>等组件</p>
+]]></content:encoded>
+            <author>i@valaxy.site (rxlxr)</author>
+        </item>
+        <item>
+            <title><![CDATA[鸿蒙开发Day01]]></title>
+            <link>http://www.rxlxr.com/posts/arkTS_Day01/index</link>
+            <guid>http://www.rxlxr.com/posts/arkTS_Day01/index</guid>
+            <pubDate>Mon, 27 Nov 2023 10:51:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p>使用ArkTs自定义组件创建浮动输入框案例</p>
+]]></content:encoded>
+            <author>i@valaxy.site (rxlxr)</author>
+        </item>
+        <item>
+            <title><![CDATA[Java 连接 阿里云物联网平台]]></title>
+            <link>http://www.rxlxr.com/posts/aliyun/index</link>
+            <guid>http://www.rxlxr.com/posts/aliyun/index</guid>
+            <pubDate>Fri, 24 Nov 2023 13:27:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p>使用MQTT.fx来理解Mqtt是如何进行消息发布和接收；使用Java连接阿里物联网平台进行消息的订阅及发布；使用vue构建前端页面</p>
+]]></content:encoded>
+            <author>i@valaxy.site (rxlxr)</author>
+        </item>
+        <item>
+            <title><![CDATA[登录界面]]></title>
+            <link>http://www.rxlxr.com/posts/login/index</link>
+            <guid>http://www.rxlxr.com/posts/login/index</guid>
+            <pubDate>Mon, 13 Nov 2023 22:00:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p>仿照Oracle登录界面</p>
+]]></content:encoded>
+            <author>i@valaxy.site (rxlxr)</author>
+        </item>
+        <item>
+            <title><![CDATA[通过ESP8266在oled显示屏上显示图片]]></title>
+            <link>http://www.rxlxr.com/posts/oled/index</link>
+            <guid>http://www.rxlxr.com/posts/oled/index</guid>
+            <pubDate>Mon, 06 Nov 2023 11:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[<h3>SSD1306</h3>
+<p>SSD1306是一种小型单色（通常为白色或蓝色）有机发光二极管（OLED）显示屏驱动芯片，广泛用于嵌入式系统和电子设备中。这个芯片由Solomon Systech Lim</p>
+]]></content:encoded>
+            <author>i@valaxy.site (rxlxr)</author>
+        </item>
+        <item>
+            <title><![CDATA[wallpaper壁纸提取]]></title>
+            <link>http://www.rxlxr.com/posts/wallpaper/index</link>
+            <guid>http://www.rxlxr.com/posts/wallpaper/index</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h3>起因</h3>
+<p>几日前在wallpaper上看到了不错的壁纸，想要将图片保存。奈何已经忘了应该怎么做，只得再次Google。为避免之后再次发生这种情况，决定开发一个简单的程序可以方便地提取wallp</p>
+]]></content:encoded>
+            <author>i@valaxy.site (rxlxr)</author>
+        </item>
+        <item>
+            <title><![CDATA[stm32点亮led]]></title>
+            <link>http://www.rxlxr.com/posts/led/index</link>
+            <guid>http://www.rxlxr.com/posts/led/index</guid>
+            <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h3>设置引脚</h3>
+<p>将PC13和PA0设置为GPIO_Output</p>
+<p><img src="./pin.jpg" alt=""></p>
+<p>将GPIO output level 设置为high</p>
+<p><img src="./level.jpg" alt=""></p>
+<h2></h2>
+]]></content:encoded>
+            <author>i@valaxy.site (rxlxr)</author>
+        </item>
+        <item>
+            <title><![CDATA[stm32打印hello world]]></title>
+            <link>http://www.rxlxr.com/posts/printf/index</link>
+            <guid>http://www.rxlxr.com/posts/printf/index</guid>
+            <pubDate>Tue, 05 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h3>创建工程文件</h3>
+<p>首先使用cubemx建立工程文件</p>
+<ol>
+<li>
+<p>Debug选择Serial Wire<img src="./images/set0.jpg" alt=""></p>
+</li>
+<li>
+<p>串口1Mode选择同步![](./imag</p>
+</li>
+</ol>
+]]></content:encoded>
+            <author>i@valaxy.site (rxlxr)</author>
+        </item>
+        <item>
+            <title><![CDATA[感知与控制课设]]></title>
+            <link>http://www.rxlxr.com/posts/PAC/index</link>
+            <guid>http://www.rxlxr.com/posts/PAC/index</guid>
+            <pubDate>Mon, 10 Jul 2023 11:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p>现场快递柜状态采集与控制系统的实现，主要涉及串口通信及网页前后端的开发。</p>
+]]></content:encoded>
+            <author>i@valaxy.site (rxlxr)</author>
+        </item>
+        <item>
+            <title><![CDATA[C语言数据结构课设]]></title>
+            <link>http://www.rxlxr.com/posts/dataStructure/index</link>
+            <guid>http://www.rxlxr.com/posts/dataStructure/index</guid>
+            <pubDate>Mon, 10 Jul 2023 11:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p>江苏大学线路问询系统，主要涉及结构体的设计和一些简单算法的运用。</p>
+]]></content:encoded>
+            <author>i@valaxy.site (rxlxr)</author>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,194 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "rxlxr的博客",
+    "home_page_url": "http://www.rxlxr.com/",
+    "feed_url": "http://www.rxlxr.com/feed.json",
+    "description": "生活不易,阿荣卖艺",
+    "icon": "http://www.rxlxr.com/images/user/avatar.png",
+    "author": {
+        "name": "rxlxr",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<p>使用若依框架快速开发江苏大学教学管理系统</p>\n",
+            "url": "http://www.rxlxr.com/posts/ruoyi_teaching/index",
+            "title": "教学管理系统",
+            "date_modified": "2024-01-20T17:16:05.000Z",
+            "date_published": "2024-01-20T17:16:05.000Z",
+            "author": {
+                "name": "rxlxr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>讲解倾心家教前端中http请求源码和登录页源码</p>\n",
+            "url": "http://www.rxlxr.com/posts/qxeducation1/index",
+            "title": "倾心家教源码分析1",
+            "date_modified": "2024-01-13T15:00:07.000Z",
+            "date_published": "2024-01-13T15:00:07.000Z",
+            "author": {
+                "name": "rxlxr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>倾心家教结果展示</p>\n",
+            "url": "http://www.rxlxr.com/posts/qxeducation/index",
+            "title": "倾心家教",
+            "date_modified": "2024-01-13T14:00:07.000Z",
+            "date_published": "2024-01-13T14:00:07.000Z",
+            "author": {
+                "name": "rxlxr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>使用http协议获取数据</p>\n",
+            "url": "http://www.rxlxr.com/posts/arkTS_Day04/index",
+            "title": "鸿蒙开发Day04",
+            "date_modified": "2023-12-14T20:56:56.000Z",
+            "date_published": "2023-12-14T20:56:56.000Z",
+            "author": {
+                "name": "rxlxr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>使用Picker，Dialog组件完成中国城市选择器</p>\n",
+            "url": "http://www.rxlxr.com/posts/arkTS_Day03/index",
+            "title": "鸿蒙开发Day03",
+            "date_modified": "2023-12-01T22:21:01.000Z",
+            "date_published": "2023-11-28T22:21:01.000Z",
+            "author": {
+                "name": "rxlxr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>学习使用ArkTs的<code>List</code>，<code>Tabs</code>，<code>Navigation</code>等组件</p>\n",
+            "url": "http://www.rxlxr.com/posts/arkTS_Day02/index",
+            "title": "鸿蒙开发Day02",
+            "date_modified": "2023-11-28T16:15:29.000Z",
+            "date_published": "2023-11-28T16:15:29.000Z",
+            "author": {
+                "name": "rxlxr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>使用ArkTs自定义组件创建浮动输入框案例</p>\n",
+            "url": "http://www.rxlxr.com/posts/arkTS_Day01/index",
+            "title": "鸿蒙开发Day01",
+            "date_modified": "2023-11-27T10:51:26.000Z",
+            "date_published": "2023-11-27T10:51:26.000Z",
+            "author": {
+                "name": "rxlxr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>使用MQTT.fx来理解Mqtt是如何进行消息发布和接收；使用Java连接阿里物联网平台进行消息的订阅及发布；使用vue构建前端页面</p>\n",
+            "url": "http://www.rxlxr.com/posts/aliyun/index",
+            "title": "Java 连接 阿里云物联网平台",
+            "date_modified": "2023-11-22T10:18:25.000Z",
+            "date_published": "2023-11-24T13:27:15.000Z",
+            "author": {
+                "name": "rxlxr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>仿照Oracle登录界面</p>\n",
+            "url": "http://www.rxlxr.com/posts/login/index",
+            "title": "登录界面",
+            "date_modified": "2023-11-13T22:00:10.000Z",
+            "date_published": "2023-11-13T22:00:10.000Z",
+            "author": {
+                "name": "rxlxr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>SSD1306</h3>\n<p>SSD1306是一种小型单色（通常为白色或蓝色）有机发光二极管（OLED）显示屏驱动芯片，广泛用于嵌入式系统和电子设备中。这个芯片由Solomon Systech Lim</p>\n",
+            "url": "http://www.rxlxr.com/posts/oled/index",
+            "title": "通过ESP8266在oled显示屏上显示图片",
+            "date_modified": "2023-11-06T11:42:43.000Z",
+            "date_published": "2023-11-06T11:42:43.000Z",
+            "author": {
+                "name": "rxlxr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>起因</h3>\n<p>几日前在wallpaper上看到了不错的壁纸，想要将图片保存。奈何已经忘了应该怎么做，只得再次Google。为避免之后再次发生这种情况，决定开发一个简单的程序可以方便地提取wallp</p>\n",
+            "url": "http://www.rxlxr.com/posts/wallpaper/index",
+            "title": "wallpaper壁纸提取",
+            "date_modified": "2023-09-19T00:00:00.000Z",
+            "date_published": "2023-09-19T00:00:00.000Z",
+            "author": {
+                "name": "rxlxr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>设置引脚</h3>\n<p>将PC13和PA0设置为GPIO_Output</p>\n<p><img src=\"./pin.jpg\" alt=\"\"></p>\n<p>将GPIO output level 设置为high</p>\n<p><img src=\"./level.jpg\" alt=\"\"></p>\n<h2></h2>\n",
+            "url": "http://www.rxlxr.com/posts/led/index",
+            "title": "stm32点亮led",
+            "date_modified": "2023-09-06T00:00:00.000Z",
+            "date_published": "2023-09-06T00:00:00.000Z",
+            "author": {
+                "name": "rxlxr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>创建工程文件</h3>\n<p>首先使用cubemx建立工程文件</p>\n<ol>\n<li>\n<p>Debug选择Serial Wire<img src=\"./images/set0.jpg\" alt=\"\"></p>\n</li>\n<li>\n<p>串口1Mode选择同步![](./imag</p>\n</li>\n</ol>\n",
+            "url": "http://www.rxlxr.com/posts/printf/index",
+            "title": "stm32打印hello world",
+            "date_modified": "2023-09-05T00:00:00.000Z",
+            "date_published": "2023-09-05T00:00:00.000Z",
+            "author": {
+                "name": "rxlxr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>现场快递柜状态采集与控制系统的实现，主要涉及串口通信及网页前后端的开发。</p>\n",
+            "url": "http://www.rxlxr.com/posts/PAC/index",
+            "title": "感知与控制课设",
+            "date_modified": "2023-07-10T11:42:43.000Z",
+            "date_published": "2023-07-10T11:42:43.000Z",
+            "author": {
+                "name": "rxlxr",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>江苏大学线路问询系统，主要涉及结构体的设计和一些简单算法的运用。</p>\n",
+            "url": "http://www.rxlxr.com/posts/dataStructure/index",
+            "title": "C语言数据结构课设",
+            "date_modified": "2023-07-10T11:42:43.000Z",
+            "date_published": "2023-07-10T11:42:43.000Z",
+            "author": {
+                "name": "rxlxr",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
