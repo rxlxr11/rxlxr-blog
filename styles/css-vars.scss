@@ -1,0 +1,22 @@
+// you can custom css vars here
+@use "./vars" as *;
+@use "valaxy/client/styles/mixins/index.scss" as * with($namespace: "yun");
+
+:root {
+  @include set-css-var-from-map($common);
+  @include set-css-var-from-map($z-index, "z");
+
+  // z-index
+  --va-z-overlay: var(--yun-z-backdrop);
+}
+
+:root {
+  @include set-css-var-from-map($light);
+  --yun-bg-img: url("http://www.rxlxr.com/images/user/back4.png");
+
+}
+
+.dark {
+  @include set-css-var-from-map($dark);
+  --yun-bg-img: url("http://www.rxlxr.com/images/user/back3.png");
+}
